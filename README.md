@@ -1,10 +1,10 @@
 --- pianoTunes ---
-![pianoTunes desktop app](https://github.com/horjarobert/pianoTunes/blob/master/pianoTunes/pianoTunes.PNG)
+![pianoTunes desktop app](https://github.com/horjarobert/PianoTunes/blob/master/pianoTunes.PNG)
 ***
 
 # 1.Intro # 
 
-+This project is a sample piano keyboard, with 13 notes (as the real first octave from C1 to C2);   
++This project is a sample piano keyboard, with 13 notes (like the real first octave from C1 to C2);   
 
 +Each sound was recorded by me from my piano (Yamaha) and then converted from .mp4 to .wav (check this website, is good for converting everything: https://www.online-convert.com/);
 
