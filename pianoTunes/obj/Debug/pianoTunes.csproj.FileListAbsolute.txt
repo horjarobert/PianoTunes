@@ -1,0 +1,30 @@
+C:\Users\Roby\source\repos\pianoTunes\pianoTunes\bin\Debug\pianoTunes.exe.config
+C:\Users\Roby\source\repos\pianoTunes\pianoTunes\bin\Debug\pianoTunes.exe
+C:\Users\Roby\source\repos\pianoTunes\pianoTunes\bin\Debug\pianoTunes.pdb
+C:\Users\Roby\source\repos\pianoTunes\pianoTunes\obj\Debug\pianoTunes.csprojResolveAssemblyReference.cache
+C:\Users\Roby\source\repos\pianoTunes\pianoTunes\obj\Debug\pianoTunes.piano.resources
+C:\Users\Roby\source\repos\pianoTunes\pianoTunes\obj\Debug\pianoTunes.Properties.Resources.resources
+C:\Users\Roby\source\repos\pianoTunes\pianoTunes\obj\Debug\pianoTunes.csproj.GenerateResource.cache
+C:\Users\Roby\source\repos\pianoTunes\pianoTunes\obj\Debug\pianoTunes.csproj.CoreCompileInputs.cache
+C:\Users\Roby\source\repos\pianoTunes\pianoTunes\obj\Debug\pianoTunes.exe
+C:\Users\Roby\source\repos\pianoTunes\pianoTunes\obj\Debug\pianoTunes.pdb
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\bin\Debug\pianoTunes.exe.config
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\bin\Debug\pianoTunes.exe
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\bin\Debug\pianoTunes.pdb
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\obj\Debug\pianoTunes.csprojResolveAssemblyReference.cache
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\obj\Debug\pianoTunes.piano.resources
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\obj\Debug\pianoTunes.Properties.Resources.resources
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\obj\Debug\pianoTunes.csproj.GenerateResource.cache
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\obj\Debug\pianoTunes.csproj.CoreCompileInputs.cache
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\obj\Debug\pianoTunes.exe
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\obj\Debug\pianoTunes.pdb
+D:\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\bin\Debug\pianoTunes.exe.config
+D:\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\bin\Debug\pianoTunes.exe
+D:\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\bin\Debug\pianoTunes.pdb
+D:\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\obj\Debug\pianoTunes.csprojAssemblyReference.cache
+D:\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\obj\Debug\pianoTunes.piano.resources
+D:\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\obj\Debug\pianoTunes.Properties.Resources.resources
+D:\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\obj\Debug\pianoTunes.csproj.GenerateResource.cache
+D:\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\obj\Debug\pianoTunes.csproj.CoreCompileInputs.cache
+D:\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\obj\Debug\pianoTunes.exe
+D:\Programming Projects\C#\Level 3\pianoTunes\pianoTunes\obj\Debug\pianoTunes.pdb
