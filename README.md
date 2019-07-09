@@ -1,8 +1,9 @@
 --- pianoTunes ---
-![pianoTunes desktop app](https://github.com/horjarobert/PianoTunes/blob/master/pianoTunes.PNG)
-***
 
 # Demo #
+
+![pianoTunes desktop app](https://github.com/horjarobert/PianoTunes/blob/master/pianoTunes.PNG)
+***
 
 # 1.Intro # 
 
