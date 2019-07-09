@@ -2,6 +2,8 @@
 ![pianoTunes desktop app](https://github.com/horjarobert/PianoTunes/blob/master/pianoTunes.PNG)
 ***
 
+# Demo #
+
 # 1.Intro # 
 
 +This project is a sample piano keyboard, with 13 notes (like the real first octave from C1 to C2);   
